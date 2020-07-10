@@ -5,7 +5,7 @@
 In the wake of the current pandemic of COVID19 it is ever more important to speed up the reliable drug discovery process. Deep learning has been introduced into the field of Cheminformatics to predict the Binding Affinities from pairs of drugs and target proteins. The drugs and proteins can both be represented as text sequences, graphs and 3D structures. Additionally, meaningful molecular images that hold atomic and bonding information of the molecule are also viable representations. Images of Proteins however don’t hold any meaningful information. Image, Graph, 3D and Text based representations for molecular inputs have been considered for the task of DTA, but proteins have mostly been used as character sequences or expensive 3D crystal structure is used, which is not suitable for the prompt and low budget prediction task. The DGraphDTA baseline that we followed uses the protein sequence information to estimate the contact maps for proteins which can be used to generate protein graphs. In our project, we explore the limitations of their method, and perform a series of experiments with the aim to improve upon their results. Finally, we predict the binding affinities for COVID Protienase 3CL-PRO with the drugs from baseline Davis dataset, using our experimental models. The contact map for the COVID Proteinase was estimated from the MapPred webserver.
 
 ## Experiment (DGraphDTA) results produced on Davis testset
-|Experiments | CI(std) | MSE(std) | Pearson(std)|
+|Experiments | CI | MSE | Pearson|
 | :---: | :---: | :---: | :---: |
 |reported | 0.89 | 0.21 | 0.85|
 |Reproduced | 0.89 | 0.23 | 0.84|
