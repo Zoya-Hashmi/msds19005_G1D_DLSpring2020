@@ -16,8 +16,8 @@ In the wake of the current pandemic of COVID19 it is ever more important to spee
 |Dropout | 0.88 | 0.23 | 0.84|
 
 
-## Disclaimer
-This work is based on two papers on Drug Target Affinity Prediction. 
+## References
+This work is based on two papers two recent papers on Drug Target Affinity Prediction. 
 * Mingjian Jiang, Zhen Li, Shugang Zhang, Shuang Wang, Xi-aofeng Wang,  Qing Yuan,  and Zhiqiang Wei.   Drug–targetaffinity  prediction  using  graph  neural  network  and  contactmaps.RSC Advances, 10(35):20701–20712, 2020.
 * Ahmet  Sureyya  Rifaioglu,   Esra  Nalbat,   Volkan  Atalay,Maria   Jesus   Martin,   Rengul   Cetin-Atalay,   and   TuncaDo ̆gan.   Deepscreen:  high  performance  drug–target  inter-action prediction with convolutional neural networks using2-d structural compound representations.Chemical Science,11(9):2531–2557, 2020.
 
