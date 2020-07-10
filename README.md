@@ -22,5 +22,6 @@ This work is based on two papers on Drug Target Affinity Prediction.
 * Ahmet  Sureyya  Rifaioglu,   Esra  Nalbat,   Volkan  Atalay,Maria   Jesus   Martin,   Rengul   Cetin-Atalay,   and   TuncaDo ̆gan.   Deepscreen:  high  performance  drug–target  inter-action prediction with convolutional neural networks using2-d structural compound representations.Chemical Science,11(9):2531–2557, 2020.
 
 ### Links
-**Website** https://sites.google.com/itu.edu.pk/drug-discovery-with-dl/home //
+**Website** https://sites.google.com/itu.edu.pk/drug-discovery-with-dl/home \
+
 **Paper** https://drive.google.com/file/d/1hqKu48gq1vtArtOXAWzqd_Brt0PwQroh/view
