@@ -15,6 +15,11 @@ In the wake of the current pandemic of COVID19 it is ever more important to spee
 |Ensemble no aug. | 0.88 | 0.23 | 0.83|
 |Dropout | 0.88 | 0.23 | 0.84|
 
+## Links
+**Website** https://sites.google.com/itu.edu.pk/drug-discovery-with-dl/home  <br>
+
+**Paper** https://drive.google.com/file/d/1hqKu48gq1vtArtOXAWzqd_Brt0PwQroh/view <br>
+
 
 ## References
 This work is based on two papers two recent papers on Drug Target Affinity Prediction. Their codes are modified for our experiments. 
@@ -23,7 +28,3 @@ https://github.com/595693085/DGraphDTA
 * Ahmet  Sureyya  Rifaioglu,   Esra  Nalbat,   Volkan  Atalay,Maria   Jesus   Martin,   Rengul   Cetin-Atalay,   and   TuncaDo ̆gan.   Deepscreen:  high  performance  drug–target  inter-action prediction with convolutional neural networks using2-d structural compound representations.Chemical Science,11(9):2531–2557, 2020.
 https://github.com/cansyl/DEEPScreen
 
-### Links
-**Website** https://sites.google.com/itu.edu.pk/drug-discovery-with-dl/home  <br>
-
-**Paper** https://drive.google.com/file/d/1hqKu48gq1vtArtOXAWzqd_Brt0PwQroh/view <br>
