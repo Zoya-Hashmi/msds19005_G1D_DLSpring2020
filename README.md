@@ -26,5 +26,7 @@ This work is based on two papers two recent papers on Drug Target Affinity Predi
 * Mingjian Jiang, Zhen Li, Shugang Zhang, Shuang Wang, Xi-aofeng Wang,  Qing Yuan,  and Zhiqiang Wei.   Drug–targetaffinity  prediction  using  graph  neural  network  and  contactmaps.RSC Advances, 10(35):20701–20712, 2020.
 https://github.com/595693085/DGraphDTA
 * Ahmet  Sureyya  Rifaioglu,   Esra  Nalbat,   Volkan  Atalay,Maria   Jesus   Martin,   Rengul   Cetin-Atalay,   and   TuncaDo ̆gan.   Deepscreen:  high  performance  drug–target  inter-action prediction with convolutional neural networks using2-d structural compound representations.Chemical Science,11(9):2531–2557, 2020.
-https://github.com/cansyl/DEEPScreen
+https://github.com/cansyl/DEEPScreen <br>
 
+## Authors
+Aqsa T. , Zoya N. , M. Waheed R. , Fatima F. 
